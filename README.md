@@ -2,4 +2,5 @@
 ガクチカをPythonのjanomeで頻度分析、WordCloudでその情報をもとに太陽の形に描画する。
 
 gakutika.txtに頻度分析したい文章を記入、今回は履歴書のガクチカ部分を記載
+
 gakutika.pyによってgakutika_mask.pngを生成
