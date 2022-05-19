@@ -3,4 +3,4 @@
 
 gakutika.txtに頻度分析したい文章を記入、今回は履歴書のガクチカ部分を記載
 
-gakutika.pyによってgakutika_mask.pngを生成
+gakutika.pyによってgakutika_mask.pngをより頻度の高いワードを大きくし、さらにsun.jpgの形になるよう生成
